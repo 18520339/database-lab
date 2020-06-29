@@ -1,2 +1,1 @@
-# database-practice
-Database practice with SQL Server
+# Database practice with SQL Server
